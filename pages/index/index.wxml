@@ -1,4 +1,4 @@
 <!--index.wxml-->
 <view class="container">
- 
+ <view>知识点2</view>
 </view>
